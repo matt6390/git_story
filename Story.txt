@@ -8,3 +8,4 @@ And yet another line that Im adding to the story
 
 This is the first change 1
 This is the second change 2
+This is the third change made to our story 3
